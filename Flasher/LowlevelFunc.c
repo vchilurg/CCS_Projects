@@ -42,6 +42,8 @@ void MsDelay(word milliseconds)
 //----------------------------------------------------------------------------
 //! \brief Delay function (resolution is ~1 us)
 //! \param microseconds (number of ms, max number is 0xFFFF)
+//Clock freq for source code processor
+//NOP takes one cycle
 void usDelay(word microseconds)
 {
     do

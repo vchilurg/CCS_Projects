@@ -12,7 +12,6 @@
 
 #endif /* LOWLEVELFUNC_H_ */
 #include <stdint.h>
-
 #include <msp430.h>
 
 //******************************************************************************
@@ -56,7 +55,6 @@ uint8_t TCLK_saved;  // holds the last value of TCLK before entering a JTAG sequ
 /****************************************************************************/
 /* Macros to control Spy-Bi-Wire-IF                                         */
 /****************************************************************************/
-
 
 #define     SBW_DELAY { _NOP(); _NOP(); _NOP(); _NOP(); _NOP(); _NOP(); _NOP(); _NOP();}
 
