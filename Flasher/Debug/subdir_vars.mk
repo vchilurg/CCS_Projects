@@ -9,32 +9,33 @@ CMD_SRCS += \
 ../lnk_msp430fr6989.cmd 
 
 C_SRCS += \
-../LowlevelFunc.c \
-../SBW430FR.c \
+D:/Course/Sem\ 5/ECE\ 698/JTAG/slau320ac/slau320w/Replicator430FR/JTAGfunc430FR.c \
+D:/Course/Sem\ 5/ECE\ 698/JTAG/slau320ac/slau320w/Replicator430FR/LowLevelFunc430Xv2.c \
 ../main.c 
 
 C_DEPS += \
-./LowlevelFunc.d \
-./SBW430FR.d \
+./JTAGfunc430FR.d \
+./LowLevelFunc430Xv2.d \
 ./main.d 
 
 OBJS += \
-./LowlevelFunc.obj \
-./SBW430FR.obj \
+./JTAGfunc430FR.obj \
+./LowLevelFunc430Xv2.obj \
 ./main.obj 
 
 OBJS__QUOTED += \
-"LowlevelFunc.obj" \
-"SBW430FR.obj" \
+"JTAGfunc430FR.obj" \
+"LowLevelFunc430Xv2.obj" \
 "main.obj" 
 
 C_DEPS__QUOTED += \
-"LowlevelFunc.d" \
-"SBW430FR.d" \
+"JTAGfunc430FR.d" \
+"LowLevelFunc430Xv2.d" \
 "main.d" 
 
 C_SRCS__QUOTED += \
-"../LowlevelFunc.c" \
+"D:/Course/Sem 5/ECE 698/JTAG/slau320ac/slau320w/Replicator430FR/JTAGfunc430FR.c" \
+"D:/Course/Sem 5/ECE 698/JTAG/slau320ac/slau320w/Replicator430FR/LowLevelFunc430Xv2.c" \
 "../main.c" 
 
 

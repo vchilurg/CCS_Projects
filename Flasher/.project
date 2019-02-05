@@ -24,4 +24,37 @@
 		<nature>org.eclipse.cdt.core.ccnature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Config430FR.h</name>
+			<type>1</type>
+			<locationURI>copy_PARENT/Replicator430FR/Config430FR.h</locationURI>
+		</link>
+		<link>
+			<name>JTAGfunc430FR.c</name>
+			<type>1</type>
+			<locationURI>copy_PARENT/Replicator430FR/JTAGfunc430FR.c</locationURI>
+		</link>
+		<link>
+			<name>JTAGfunc430FR.h</name>
+			<type>1</type>
+			<locationURI>copy_PARENT/Replicator430FR/JTAGfunc430FR.h</locationURI>
+		</link>
+		<link>
+			<name>LowLevelFunc430Xv2.c</name>
+			<type>1</type>
+			<locationURI>copy_PARENT/Replicator430FR/LowLevelFunc430Xv2.c</locationURI>
+		</link>
+		<link>
+			<name>LowLevelFunc430Xv2.h</name>
+			<type>1</type>
+			<locationURI>copy_PARENT/Replicator430FR/LowLevelFunc430Xv2.h</locationURI>
+		</link>
+	</linkedResources>
+	<variableList>
+		<variable>
+			<name>copy_PARENT</name>
+			<value>file:/D:/Course/Sem%205/ECE%20698/JTAG/slau320ac/slau320w</value>
+		</variable>
+	</variableList>
 </projectDescription>

@@ -1,1 +1,1 @@
-"./LowlevelFunc.obj" "./SBW430FR.obj" "./main.obj" "../lnk_msp430fr6989.cmd" -llibmpu_init.a -llibmath.a -llibc.a 
+"./JTAGfunc430FR.obj" "./LowLevelFunc430Xv2.obj" "./main.obj" "../lnk_msp430fr6989.cmd" -llibmpu_init.a -llibmath.a -llibc.a 

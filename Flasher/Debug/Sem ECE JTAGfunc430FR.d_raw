@@ -1,0 +1,13 @@
+JTAGfunc430FR.obj: D:/Course/Sem 5/ECE 698/JTAG/slau320ac/slau320w/Replicator430FR/JTAGfunc430FR.c
+JTAGfunc430FR.obj: D:\Course\Sem 5\ECE 698\JTAG\slau320ac\slau320w\Replicator430FR\LowLevelFunc430Xv2.h
+JTAGfunc430FR.obj: D:\Course\Sem 5\ECE 698\JTAG\slau320ac\slau320w\Replicator430FR\Config430FR.h
+JTAGfunc430FR.obj: C:/ti/ccsv8/ccs_base/msp430/include/msp430.h
+JTAGfunc430FR.obj: C:\ti\ccsv8\ccs_base\msp430\include\msp430fr6989.h
+JTAGfunc430FR.obj: C:\ti\ccsv8\ccs_base\msp430\include\in430.h
+JTAGfunc430FR.obj: C:/ti/ccsv8/tools/compiler/ti-cgt-msp430_18.1.3.LTS/include/intrinsics.h
+JTAGfunc430FR.obj: C:\ti\ccsv8\tools\compiler\ti-cgt-msp430_18.1.3.LTS\include\intrinsics_legacy_undefs.h
+JTAGfunc430FR.obj: D:\Course\Sem 5\ECE 698\JTAG\slau320ac\slau320w\Replicator430FR\JTAGfunc430FR.h
+JTAGfunc430FR.obj: D:\Course\Sem 5\ECE 698\JTAG\slau320ac\slau320w\Replicator430FR\Config430FR.h
+JTAGfunc430FR.obj: D:\Course\Sem 5\ECE 698\JTAG\slau320ac\slau320w\Replicator430FR\FramErase.c
+JTAGfunc430FR.obj: D:\Course\Sem 5\ECE 698\JTAG\slau320ac\slau320w\Replicator430FR\FramWrite.c
+JTAGfunc430FR.obj: D:\Course\Sem 5\ECE 698\JTAG\slau320ac\slau320w\Replicator430FR\msp430CodeFR57_6xx.h
